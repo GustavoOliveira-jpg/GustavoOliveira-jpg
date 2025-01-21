@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GustavoOliveira-jpg.GustavoOliveira-jpg"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Gustavo+Oliveira!;" />
+ <img src= "https://readme-typing-svg.demolab.com/demo/?font=Righteous&size=25&duration=4000&multiline=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C+i'm+Gustavo+Oliveira!"/>
 </h1>
 
 
