@@ -4,7 +4,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&multiline=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C+i'm+Gustavo+Oliveira!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> I'm a university student from Universidade Federal do ABC, interested in statistics, cloud computing and Data Engineering </h3>
+<h1> ABOUT ME </h1>
+<h3 align="center"> I'm a 19 years old university student from Universidade Federal do ABC, interested in statistics, cloud computing and Data Engineering</h3>
 
 <br/>
 
