@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&multiline=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C+i'm+Gustavo+Oliveira!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> Estudante Universitário </h3>
+<h3 align="center"> I'm a university student from Universidade Federal do ABC, interested in statistics, cloud computing and Data Engineering </h3>
 
 <br/>
 
@@ -17,6 +17,15 @@
   </a>
 </div>
 
+<hr/>
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<br/>
+<div align="center">
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=aws,py,postgres"/>
+ </a>
+</div>
 <!---
 GustavoOliveira-jpg/GustavoOliveira-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
