@@ -12,7 +12,7 @@
 <h1> HOBBIES</h1>
 <div>
   <h3>
-   🎵 Listen to music
+   🎵 Listen to music <br/>
    🏀 play baskeball with my friends
   </h3>
 </div>
