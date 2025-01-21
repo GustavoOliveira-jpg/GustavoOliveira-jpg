@@ -5,7 +5,7 @@
 </h1>
 
 <h1> ABOUT ME </h1>
-<h3 align="center"> I'm a 19 years old university student from <a href="https://www.ufabc.edu.br/" alt="W3Schools"> , interested in statistics, cloud computing and Data Engineering</h3>
+<h3 align="center"> I'm a 19 years old university student from <a href="https://www.ufabc.edu.br/"> tese <a/> , interested in statistics, cloud computing and Data Engineering</h3>
 <br/>
 <h3 align="center"> 🎓currently Pursuing a Bachalor's degree in Science & Technology and Data Science; </h3>
 
