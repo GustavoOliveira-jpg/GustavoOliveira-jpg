@@ -9,6 +9,13 @@
 <br/>
 <h3 align="center"> 🎓currently Pursuing a Bachalor's degree in Science & Technology and Data Science; </h3>
 
+<h1> HOBBIES</h1>
+<div>
+  <h3>
+   🎵 Listen to music
+   🏀 play baskeball with my friends
+  </h3>
+</div>
 <br/>
 
 <div align="center">
