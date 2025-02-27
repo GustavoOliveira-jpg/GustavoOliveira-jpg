@@ -14,6 +14,7 @@
   <h3>
    🎵 Listen to music <br/>
    🏀 play baskeball with my friends
+   ➗ Study and learn about differents topics
   </h3>
 </div>
 <br/>
