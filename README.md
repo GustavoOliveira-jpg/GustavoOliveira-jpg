@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=azure,py,postgres.vscode"/>
+   <img src="https://skillicons.dev/icons?i=azure,py,postgres,vscode"/>
  </a>
 </div>
 <!---
